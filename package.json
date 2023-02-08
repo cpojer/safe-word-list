@@ -5,7 +5,7 @@
   "description": "A word list of the most common safe English words.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cnakazawa/safe-word-list.git"
+    "url": "https://github.com/cpojer/safe-word-list.git"
   },
   "license": "MIT",
   "keywords": [
