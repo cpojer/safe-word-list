@@ -2,7 +2,7 @@
 
 This package contains a list of about 2900 of the most used safe words in English with at least three characters or more.
 
-## install
+## Installation
 
 ```
 npm install @nkzw/safe-word-list
